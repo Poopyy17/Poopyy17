@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with a proven record of leading projects from concept to deployment.
+Software Engineer with a proven record of leading projects from concept to deployment.
 
 
 ## 🌐 Socials:
