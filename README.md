@@ -12,9 +12,6 @@ Software Engineer with a proven record of leading projects from concept to deplo
 ![](https://nirzak-streak-stats.vercel.app/?user=Poopyy17&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poopyy17&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Poopyy17&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Poopyy17&icon=0&color=4)](https://visitcount.itsvg.in)
 
