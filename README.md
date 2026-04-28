@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Engineer with a proven record of leading projects from concept to deployment.
-
+I smash every keys on my keyboard to develop things and I eat variables for breakfast!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesboac17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:james.boac25@gmail.com) 
